@@ -116,9 +116,9 @@ python convertToPKL_class.py
 ```
 output:
 
-all_data/all_data_Micro_other/
-├── tr_<target>_convert.csv
-└── vl_<target>_convert.csv
+all_data/all_data_Micro/
+├── tr_all_data_Micro_convert.csv
+└── vl_all_data_Micro_convert.csv
 ```
 
 
