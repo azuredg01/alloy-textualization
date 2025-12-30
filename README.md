@@ -189,15 +189,13 @@ Used by both:
 ## Step 5: Model Training
 
 ### Regression
-**Script**
-``main_DDP_v3.py``
+**Script :** ``main_DDP_v3.py``
 ```bash
 bash run_regression.sh # 設定需依環境更改
 ```
 
 ### Classification
-**Script**
-``main_DDP_class.py``
+**Script :** ``main_DDP_class.py``
 ```bash
 bash run_class.sh # 設定需依環境更改
 ```
