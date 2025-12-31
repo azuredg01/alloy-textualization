@@ -212,6 +212,12 @@ training_output/finetune-*/
 
 ---
 
+### Attention score and plot
+1. 用 `vl_<target>_convert.csv` 先跑 `sentence_values.ipynb`，輸出 `vl_all_data_<target>_sentence.csv`
+2. 再跑 `attention_score.ipynb`，確認可正確載入模型並輸出圖表
+
+---
+
 ### Notes
 
 Regression 與 Classification 共同一條 Pipeline
